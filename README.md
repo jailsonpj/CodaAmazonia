@@ -9,11 +9,11 @@ Autor/palestrante: Jailson Pereira
 
 ### Apresentação
 
-Dentro da pasta apresentação, encontra-se o slide apresentado no workshop
+[Coda Amazônia] Quando a planilha trava_ trabalhando com bases de dados massivas.pdf é a apresentação do workshop que será minstrado.
 
 ### Jupyter Notebook
 
-Dentro da pasta jupyter notebook, encontra-se o notebook com a codificação dos exemplos apresentado no workshop
+[nome]coda_amazonia.ipynb é o código base com instalações para execução antes do inicio do workshop.
 
 ### Dataset
 
